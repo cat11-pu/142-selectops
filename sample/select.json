@@ -1,0 +1,7 @@
+{
+  "range_error_code": "E_BAD_RANGE",
+  "total": 6,
+  "action": "invert",
+  "current": [0, 2, 3],
+  "range": [1, 3]
+}
